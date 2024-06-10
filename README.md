@@ -1,1 +1,3 @@
-# holbertonschool-shell
+# holbertonschool-shell 
+Learning Vim
+executing command
