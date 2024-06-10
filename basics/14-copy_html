@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *~
+ cp -u /tmp/test_html/*.html /tmp/ 
