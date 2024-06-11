@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod drwxr-xr-x
+chmod -R +x */ 2>/dev/null
