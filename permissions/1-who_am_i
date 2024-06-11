@@ -1,2 +1,2 @@
 #!/bin/bash
-./print_username.sh 
+./1-who_am_i
