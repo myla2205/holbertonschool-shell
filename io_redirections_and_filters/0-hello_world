@@ -1,2 +1,2 @@
 #!/bin/bash
-Print "Hello, World" to the standard output
+./0-hello_world
