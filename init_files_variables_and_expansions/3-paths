@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Number of directories in PATH: $directory_count"
+DIRS=$(find . -type d -mindepth $n)
