@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "Best School" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+find . -mindepth 1 -type d | wc -1
