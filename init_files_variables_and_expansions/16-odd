@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "rez: $n*$j"=$((n*j))
+paste - - | cut -f 1
